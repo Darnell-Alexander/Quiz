@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Darnell-Alexander/Quiz/static/css/main.80beed0d.css",
+    "main.js": "/Darnell-Alexander/Quiz/static/js/main.d193fe48.js",
+    "static/js/787.bb44ba93.chunk.js": "/Darnell-Alexander/Quiz/static/js/787.bb44ba93.chunk.js",
+    "index.html": "/Darnell-Alexander/Quiz/index.html",
+    "main.80beed0d.css.map": "/Darnell-Alexander/Quiz/static/css/main.80beed0d.css.map",
+    "main.d193fe48.js.map": "/Darnell-Alexander/Quiz/static/js/main.d193fe48.js.map",
+    "787.bb44ba93.chunk.js.map": "/Darnell-Alexander/Quiz/static/js/787.bb44ba93.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.80beed0d.css",
+    "static/js/main.d193fe48.js"
+  ]
+}
